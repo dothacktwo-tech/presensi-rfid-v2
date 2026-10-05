@@ -1,0 +1,11 @@
+{
+  "name": "HadirKu - Sistem Absensi Siswa RFID & QR Code",
+  "description": "Aplikasi presensi pintar siswa berbasis kartu RFID dan QR Code dengan pemindai langsung, simulator tap kartu, kartu pelajar digital, rekapitulasi, dan notifikasi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
